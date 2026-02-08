@@ -13,6 +13,7 @@ const Footer = () => {
         }}>
             <div style={{ maxWidth: '800px', margin: '0 auto' }}>
                 <p style={{ fontSize: '0.9rem', marginBottom: '15px', lineHeight: '1.6' }}>
+                    ⚠️warninng perlu di ketahui☢️
                     Semua konten di website ini tidak disimpan di server kami. Kami hanya menampilkan data dari API pihak ketiga.
                     Kami tidak bertanggung jawab atas konten yang ditampilkan.
                 </p>
@@ -22,7 +23,7 @@ const Footer = () => {
                     </Link>
                 </p>
                 <p style={{ fontSize: '0.85rem' }}>
-                    &copy; {new Date().getFullYear()} Rebahan. API provided by Zeldvorik.
+                    &copy; {new Date().getFullYear()} JansenFlix. API provided by Zeldvorik.
                 </p>
             </div>
         </footer>
