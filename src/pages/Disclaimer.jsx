@@ -20,7 +20,7 @@ const Disclaimer = () => {
                     <section>
                         <h2>Tentang Konten</h2>
                         <p>
-                            Website <strong>Rebahan</strong> adalah platform streaming yang menampilkan konten film dan serial TV
+                            Website <strong>ini</strong> adalah platform streaming yang menampilkan konten film dan serial TV
                             dari berbagai sumber melalui API pihak ketiga. Kami <strong>TIDAK menyimpan</strong>,
                             <strong>TIDAK mengupload</strong>, dan <strong>TIDAK meng-host</strong> file video apapun di server kami.
                         </p>
