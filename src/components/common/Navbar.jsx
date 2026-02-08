@@ -65,12 +65,12 @@ const Navbar = () => {
     <nav className="navbar">
       <Link to="/" className="logo">
         <img src="/logo.png" alt="Rebahan" className="navbar-logo-img" />
-        <span>Rebahan</span>
+        <span>JansenFlix</span>
       </Link>
 
       <div className={`navLinks ${isMobileMenuOpen ? 'open' : ''}`}>
         <Link to="/" className="navLink">Home</Link>
-        <Link to="/categories" className="navLink">All Categories</Link>
+        <Link to="/categories" className="navLink">Semua kategori</Link>
         <Link to="/category/kdrama" className="navLink">K-Drama</Link>
         <Link to="/category/short-tv" className="navLink">Short TV</Link>
         <Link to="/category/anime" className="navLink">Anime</Link>
