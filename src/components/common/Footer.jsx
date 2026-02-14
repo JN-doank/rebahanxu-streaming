@@ -22,6 +22,11 @@ const Footer = () => {
                         Disclaimer
                     </Link>
                 </p>
+                kalo dah baca jangan lupa join 😂
+                klik tautan di bawah🤓👇
+                <a href="https://chat.whatsapp.com/KdTdRrGbezhAAxKZ5fBhJ5?mode=gi_t" target="_blank" rel="noopener noreferrer">
+  Klik untuk join gb sekumpulan orang gabut 😎✅
+</a>
                 <p style={{ fontSize: '0.85rem' }}>
                     &copy; {new Date().getFullYear()} JansenFlix. API provided by Zeldvorik.
                 </p>
